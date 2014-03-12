@@ -1,0 +1,12 @@
+﻿<xapCache source="\\vmware-host\shared folders\Documents\Visual Studio 2013\Projects\PhoneApp2\PhoneApp2\Bin\Debug\PhoneApp2_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="3/12/2014 12:52:56 AM">
+  <file source="\\vmware-host\shared folders\Documents\Visual Studio 2013\Projects\PhoneApp2\PhoneApp2\obj\Debug\PhoneApp2.dll" archivePath="PhoneApp2.dll" lastWriteTime="3/12/2014 12:52:55 AM" />
+  <file source="\\vmware-host\shared folders\Documents\Visual Studio 2013\Projects\PhoneApp2\PhoneApp2\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="3/10/2014 8:45:21 PM" />
+  <file source="\\vmware-host\shared folders\Documents\Visual Studio 2013\Projects\PhoneApp2\PhoneApp2\Assets\Tiles\FlipCycleTileLarge.png" archivePath="Assets\Tiles\FlipCycleTileLarge.png" lastWriteTime="3/10/2014 8:45:21 PM" />
+  <file source="\\vmware-host\shared folders\Documents\Visual Studio 2013\Projects\PhoneApp2\PhoneApp2\Assets\Tiles\FlipCycleTileSmall.png" archivePath="Assets\Tiles\FlipCycleTileSmall.png" lastWriteTime="3/10/2014 8:45:21 PM" />
+  <file source="\\vmware-host\shared folders\Documents\Visual Studio 2013\Projects\PhoneApp2\PhoneApp2\Assets\Tiles\IconicTileMediumLarge.png" archivePath="Assets\Tiles\IconicTileMediumLarge.png" lastWriteTime="3/10/2014 8:45:21 PM" />
+  <file source="\\vmware-host\shared folders\Documents\Visual Studio 2013\Projects\PhoneApp2\PhoneApp2\Assets\Tiles\IconicTileSmall.png" archivePath="Assets\Tiles\IconicTileSmall.png" lastWriteTime="3/10/2014 8:45:21 PM" />
+  <file source="\\vmware-host\shared folders\Documents\Visual Studio 2013\Projects\PhoneApp2\PhoneApp2\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="3/10/2014 8:45:30 PM" />
+  <file source="\\vmware-host\shared folders\Documents\Visual Studio 2013\Projects\PhoneApp2\PhoneApp2\Bin\Debug\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="3/10/2014 8:45:21 PM" />
+  <file source="\\vmware-host\shared folders\Documents\Visual Studio 2013\Projects\PhoneApp2\PhoneApp2\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="3/10/2014 8:45:21 PM" />
+  <file source="\\vmware-host\shared folders\Documents\Visual Studio 2013\Projects\PhoneApp2\PhoneApp2\Bin\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="3/10/2014 8:45:30 PM" />
+</xapCache>
